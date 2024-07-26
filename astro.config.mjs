@@ -1,5 +1,5 @@
-import { defineConfig } from 'astro/config'
+import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'http://localhost:8888/portfolio/',
-})
+  site: 'https://portfolio.webmaagency.com',
+});
