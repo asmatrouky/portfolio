@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactCTA from '../components/ContactCTA.astro';
+import PortfolioPreview from '../components/PortfolioPreview.astro';
+import Hero from '../components/Hero.astro';
+import Grid from '../components/Grid.astro';
+
+const projects = (await getCollection('work')).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+
+// Fonction pour trier les projets par catégorie
+const categories = ['Compétences Développer', 'Compétences Entreprendre', 'Compétences Métiers'];
+const categorizedProjects = categories.map(category => ({
+  category,
+  projects: projects.filter(project => project.data.category === category),
+}));
+---
+
+<BaseLayout
+  title="Portefeuille de compétences "
+  description="Explore Jeanine White's projects by categories"
+>
+  <div class="stack gap-20">
+    <main class="wrapper stack gap-8">
+      <Hero
+        title="Portefeuille de compétences"
+        tagline="Explore my projects by categories to get a detailed view of my experience."
+        align="start"
+      />
+      {categorizedProjects.map(({ category, projects }) => (
+        <section>
+          <h3>{category}</h3>
+          <Grid variant="offset">
+            {
+              projects.map((project) => (
+                <li>
+                  <PortfolioPreview project={project} />
+                </li>
+              ))
+            }
+          </Grid>
+        </section>
+      ))}
+    </main>
+    <ContactCTA />
+  </div>
+</BaseLayout>
