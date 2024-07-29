@@ -38,30 +38,32 @@ projects.forEach(project => {
         align="start"
       />
       {Object.keys(tagCompGroups).map(tag => (
-        <section key={tag} class="tag-comp-section">
-          <h3>{tag}</h3>
-          <Grid variant="offset">
-            {tagCompGroups[tag].map(project => (
-              <div key={project.id}>
-                <PortfolioPreview project={project} />
-              </div>
-            ))}
-          </Grid>
-        </section>
+        <>
+          <section class="tag-comp-section">
+            <h3>{tag}</h3>
+            <Grid variant="offset">
+              {tagCompGroups[tag].map(project => (
+                <div>
+                  <PortfolioPreview project={project} />
+                </div>
+              ))}
+            </Grid>
+          </section>
+        </>
       ))}
     </main>
     <ContactCTA />
   </div>
   <style>
   
-    h3{
+    h3 {
       font-size: var(--text-md);
     }
 
     @media (min-width: 50em) {
-    h3{
-      font-size: var(--text-xl);
-    }
+      h3 {
+        font-size: var(--text-xl);
+      }
     }
     
   </style>
