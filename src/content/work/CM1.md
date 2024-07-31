@@ -1,38 +1,32 @@
 ---
-title: "AC33.01 - Développement d'une Application Flutter d'Informations sur les Pays du Monde"
+title: ""
 publishDate: 2019-12-01 00:00:00
-img: /assets/V360.jpg
+img: /assets/UP.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 category: "Compétences Métiers"
 description: |
-  J'ai développé une application Flutter qui affiche des informations sur les pays du monde en utilisant l'API restcountries.com. Les utilisateurs peuvent sélectionner une région pour voir les pays correspondants et obtenir des détails sur chaque pays. Ce projet met en œuvre des compétences en intégration d'API et en création d'interfaces utilisateur réactives.
+  J'ai développé des éléments en HTML, CSS et JavaScript pour le CMS Divi dans le cadre du site internet de l'entreprise UpStart.
 tags_comp: 
-  - TEST
+  - Compétences Métiers 2
 tags:
   - Acquis
 ---
+J'ai développé des éléments en HTML, CSS et JavaScript pour le CMS Divi dans le cadre du site internet de l'entreprise UpStart.. Avant cela, j'ai prototypé ces éléments sur Figma, les ai testés et les ai intégrés, illustrant ainsi ma maîtrise de la compétence AC33.02 de plusieurs façons :
 
-Ce TP m'a permis de démontrer ma compétence en AC33.01 | Développer à l’aide d’un framework de développement côté client de plusieurs façons :
+1. **Prototypage et Design :**
+    - **Utilisation de Figma :** J'ai utilisé Figma pour concevoir et prototyper les éléments du site web, ce qui a permis de visualiser et d'ajuster les composants avant leur développement. Cette étape a été cruciale pour s'assurer que les éléments respectent les besoins esthétiques et fonctionnels du projet.
+    - **Collaboration et Feedback :** En utilisant Figma, j'ai pu collaborer efficacement avec les parties prenantes et recueillir leurs retours pour affiner les designs. Cela montre ma capacité à intégrer des outils de design modernes dans le processus de développement, facilitant ainsi une communication fluide et une meilleure compréhension des exigences.
+2. **Développement Front-End :**
+    - **HTML, CSS et JavaScript :** J'ai écrit du code HTML pour structurer les composants, du CSS pour styliser les éléments et du JavaScript pour ajouter des fonctionnalités interactives. Cette combinaison de technologies a permis de créer des éléments web dynamiques et réactifs.
+    - **Composants personnalisés pour Divi :** J'ai développé des modules et des sections personnalisés compatibles avec le CMS Divi, démontrant ainsi ma capacité à étendre les fonctionnalités d'un système de gestion de contenu populaire.
+3. **Intégration et Tests :**
+    - **Tests et Validation :** J'ai testé chaque composant pour m'assurer qu'il fonctionne correctement sur différents navigateurs et appareils, garantissant une expérience utilisateur cohérente et sans bug. Les tests ont inclus des vérifications de compatibilité, des tests de performance et des tests d'accessibilité.
+    - **Intégration dans Divi :** J'ai intégré les composants développés directement dans le CMS Divi, en veillant à ce qu'ils soient facilement utilisables par l'équipe de contenu de UpStart.A. Cette intégration a simplifié le processus de mise à jour et de gestion du site web.
+4. **Documentation et Formation :**
+    - **Documentation des Composants :** J'ai rédigé une documentation détaillée expliquant comment utiliser et personnaliser les composants développés, ce qui a facilité leur adoption par l'équipe technique et non technique.
+    - **Formation et Support :** J'ai offert des sessions de formation et de support pour aider l'équipe de UpStart.A à tirer le meilleur parti des nouveaux éléments, démontrant ainsi ma capacité à transférer mes connaissances et à assurer une transition en douceur.
+5. **Optimisation et Maintenance :**
+    - **Optimisation du Code :** J'ai optimisé le code pour améliorer les performances du site, réduisant les temps de chargement et assurant une expérience utilisateur fluide.
+    - **Maintenance Continue :** J'ai mis en place des processus de maintenance réguliers pour garantir que les composants restent à jour et fonctionnent correctement avec les mises à jour du CMS Divi.
 
-Utilisation d'un Framework de Développement Client :
-J'ai utilisé Flutter, un framework de développement d'applications mobiles côté client. En travaillant avec Flutter, j'ai pu créer des interfaces utilisateur efficaces et réactives, ce qui est essentiel pour maîtriser cette compétence.
-
-Intégration d'API :
-J'ai intégré l'API restcountries.com pour récupérer et afficher des informations sur les pays du monde. Cela m'a permis de développer mes compétences en appel d'API, en traitement de données JSON et en mise à jour dynamique de l'interface utilisateur en fonction des données reçues.
-
-Interface Utilisateur Interactive :
-J'ai créé une interface utilisateur interactive où l'utilisateur peut sélectionner une région et voir les informations des pays de cette région. Pour cela, j'ai utilisé les widgets Flutter, géré les états et mis en place la navigation dans l'application.
-
-Affichage Dynamique des Données :
-J'ai affiché dynamiquement les informations des pays sélectionnés, en manipulant et en présentant les données de manière conviviale et structurée. J'ai créé des listes scrollables et des vues détaillées, en utilisant les composants d'interface utilisateur de Flutter.
-
-Gestion des Événements Utilisateur :
-J'ai géré les interactions utilisateur, telles que la sélection de régions et de pays. Cela a impliqué la mise en œuvre de gestionnaires d'événements et la mise à jour de l'interface en réponse à ces événements, ce qui est crucial pour le développement d'applications réactives et interactives.
-
-En conclusion, ce TP m'a permis de mettre en pratique de nombreuses compétences nécessaires pour développer des applications côté client à l'aide de Flutter, notamment la création d'interfaces utilisateur, l'intégration et la gestion des données d'API, et la réponse aux interactions utilisateur. Ces activités sont directement liées à la compétence AC33.01.
-
-
-
-
-
-
+En résumé, en développant et intégrant des composants personnalisés pour le CMS Divi sur le site de UpStart.A, j'ai démontré ma capacité à développer à l’aide d’un framework de développement côté serveur. J'ai su utiliser des outils modernes, développer des éléments interactifs, tester et intégrer les composants dans un CMS, documenter et former l'équipe, et assurer la maintenance continue du site, illustrant ainsi pleinement la compétence AC3
