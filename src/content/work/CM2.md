@@ -2,7 +2,7 @@
 title: "Compétences métier 2 : Gestion de projet et collaboration en équipe"
 publishDate: 2019-12-01 00:00:00
 img: /assets/UP.png
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: /
 category: "Compétences Métiers"
 description: |
   J'ai coordonné des projets en équipe, assurant la répartition des tâches et la communication fluide entre les parties prenantes pour respecter les délais.
