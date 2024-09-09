@@ -1,35 +1,20 @@
 ---
-title: ""
+title: "Compétences métier 2 : Gestion de projet et collaboration en équipe"
 publishDate: 2019-12-01 00:00:00
-img: /assets/BGI.png
+img: /assets/UP.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 category: "Compétences Métiers"
 description: |
-  TEST
+  J'ai coordonné des projets en équipe, assurant la répartition des tâches et la communication fluide entre les parties prenantes pour respecter les délais.
 tags_comp: 
   - Compétences Métiers 2
 tags:
   - Acquis
 ---
 
-Ce TP m'a permis de démontrer ma compétence en AC33.01 | Développer à l’aide d’un framework de développement côté client de plusieurs façons :
+Durant mon expérience chez UpStart, j'ai renforcé mes compétences en gestion de projet en assurant la coordination d'équipes pluridisciplinaires. L'un des projets les plus marquants fut la création du chatbot, nécessitant une collaboration étroite entre les développeurs, les équipes pédagogiques et commerciales. J'ai participé à l'ensemble du processus, de la définition des besoins à l'exécution, en passant par la répartition des tâches et le suivi des délais. Cette gestion m'a appris à prioriser les actions, à anticiper les risques et à maintenir une communication claire avec les différentes parties prenantes. De plus, en m'appuyant sur des outils de gestion de projet, j'ai pu assurer que les objectifs étaient atteints en respectant les délais impartis, tout en garantissant la qualité des livrables. Cette compétence s'est révélée cruciale pour mener à bien des projets complexes dans un environnement exigeant, comme celui d'une école en pleine croissance.
 
-Utilisation d'un Framework de Développement Client :
-J'ai utilisé Flutter, un framework de développement d'applications mobiles côté client. En travaillant avec Flutter, j'ai pu créer des interfaces utilisateur efficaces et réactives, ce qui est essentiel pour maîtriser cette compétence.
-
-Intégration d'API :
-J'ai intégré l'API restcountries.com pour récupérer et afficher des informations sur les pays du monde. Cela m'a permis de développer mes compétences en appel d'API, en traitement de données JSON et en mise à jour dynamique de l'interface utilisateur en fonction des données reçues.
-
-Interface Utilisateur Interactive :
-J'ai créé une interface utilisateur interactive où l'utilisateur peut sélectionner une région et voir les informations des pays de cette région. Pour cela, j'ai utilisé les widgets Flutter, géré les états et mis en place la navigation dans l'application.
-
-Affichage Dynamique des Données :
-J'ai affiché dynamiquement les informations des pays sélectionnés, en manipulant et en présentant les données de manière conviviale et structurée. J'ai créé des listes scrollables et des vues détaillées, en utilisant les composants d'interface utilisateur de Flutter.
-
-Gestion des Événements Utilisateur :
-J'ai géré les interactions utilisateur, telles que la sélection de régions et de pays. Cela a impliqué la mise en œuvre de gestionnaires d'événements et la mise à jour de l'interface en réponse à ces événements, ce qui est crucial pour le développement d'applications réactives et interactives.
-
-En conclusion, ce TP m'a permis de mettre en pratique de nombreuses compétences nécessaires pour développer des applications côté client à l'aide de Flutter, notamment la création d'interfaces utilisateur, l'intégration et la gestion des données d'API, et la réponse aux interactions utilisateur. Ces activités sont directement liées à la compétence AC33.01.
+Ces compétences techniques et organisationnelles m'ont permis de participer activement à la réussite des projets d'UpStart tout en améliorant mes capacités professionnelles dans le développement web et la gestion de projets.
 
 
 
