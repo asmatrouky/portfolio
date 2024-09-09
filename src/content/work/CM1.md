@@ -2,12 +2,12 @@
 title: "Concevoir et intégrer des solutions web interactives en respectant les contraintes techniques"
 publishDate: 2019-12-01 00:00:00
 img: /assets/UP.png
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: /
 category: "Compétences Métiers"
 description: |
   J'ai développé des compétences en intégration web, notamment en concevant un chatbot interactif via HTML, CSS et JavaScript, répondant aux besoins d'UpStart en automatisation et amélioration de l'expérience utilisateur.
 tags_comp: 
-  - Compétences Métiers 2
+  - Compétences Métiers 1
 tags:
   - Acquis
 ---
